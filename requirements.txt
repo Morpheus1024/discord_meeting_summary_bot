@@ -1,1 +1,7 @@
 discord
+torch
+torchvision
+torchaudio
+numpy
+soundfile
+whisper
