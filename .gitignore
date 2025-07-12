@@ -3,3 +3,5 @@ inbox.py
 .env
 *.pyc
 *.json
+*.txt
+*.flac

@@ -15,6 +15,11 @@ This project is a Discord bot that allows you to record voice conversations on a
 - CUDA-enabled GPU (optional, for faster model inference)
 - All packages from `requirements.txt` installed
 
+'''
+pip install -r requirements.txt
+source .venv/bin/activate
+'''
+
 ## Installation
 
 1. Clone the repository and navigate to the project directory.
